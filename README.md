@@ -1,1 +1,2 @@
+检测Wordpress Wholesale Market存在任意文件读取漏洞，会直接在本机浏览器上打开对应url并下载
 支持单一url或txt文本的批量搜查
